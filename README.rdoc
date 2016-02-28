@@ -2,4 +2,6 @@ Two models:
 
 Races & Participants.
 
+There are migrations to build the tables.
+
 There is a rake task for generating fake data.
